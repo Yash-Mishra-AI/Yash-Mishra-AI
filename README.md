@@ -1,11 +1,12 @@
-🚀 ABOUT ME 🚀
- 
- Hello, I'm Yash
-🎓 B.Tech AIML Student
+🚀 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 🚀
 
-📊 Passionate about Machine Learning & ‎ Data Science
+𝗛𝗘𝗟𝗟𝗢, 𝗜 𝗔𝗠 𝗬𝗔𝗦𝗛
+🎓 𝗕.𝗧𝗘𝗖𝗛 𝗦𝗧𝗨𝗗𝗘𝗡𝗧
 
-👉 "Turning data into decisions using Data Science & Machine Learning"
+📊 𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘 𝗔𝗕𝗢𝗨𝗧 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘
+
+🔥 𝗧𝗨𝗥𝗡𝗜𝗡𝗚 𝗗𝗔𝗧𝗔 𝗜𝗡𝗧𝗢 𝗗𝗘𝗖𝗜𝗦𝗜𝗢𝗡𝗦 𝗨𝗦𝗜𝗡𝗚 𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 & 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 🔥
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100051890392350) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashmishhra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-mishra-399840330)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashm9075@gmail.com) 
 
